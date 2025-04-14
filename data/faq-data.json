@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "title": "Assurance Auto",
+      "items": [
+        {
+          "question": "Quelle est la différence entre l'assurance au tiers et l'assurance tous risques ?",
+          "answer": "<p>L'assurance au tiers (responsabilité civile) est l'assurance minimale obligatoire qui couvre uniquement les dommages que vous pourriez causer à autrui. Elle ne couvre pas vos propres dommages en cas d'accident responsable.</p><p>L'assurance tous risques est plus complète et couvre à la fois les dommages causés aux tiers et à votre propre véhicule, même en cas d'accident responsable. Elle inclut généralement aussi le vol, l'incendie, le bris de glace et les catastrophes naturelles.</p>"
+        },
+        {
+          "question": "Comment puis-je réduire ma prime d'assurance auto ?",
+          "answer": "<p>Plusieurs options s'offrent à vous pour réduire votre prime d'assurance auto :</p><ul><li>Opter pour une franchise plus élevée</li><li>Installer un système d'alarme ou un traceur GPS</li><li>Conduire un véhicule moins puissant ou plus ancien</li><li>Limiter votre kilométrage annuel</li><li>Profiter des bonus pour conduite sans accident</li><li>Regrouper plusieurs contrats chez le même assureur</li><li>Comparer régulièrement les offres du marché</li></ul><p>En tant que courtier, je peux vous aider à trouver la meilleure offre adaptée à votre profil.</p>"
+        },
+        {
+          "question": "Que faire en cas d'accident de voiture ?",
+          "answer": "<p>En cas d'accident :</p><ol><li>Assurez-vous que personne n'est blessé et appelez les secours si nécessaire (15, 17 ou 18)</li><li>Mettez-vous en sécurité et signalez l'accident (triangle, gilet)</li><li>Remplissez un constat amiable avec l'autre conducteur impliqué</li><li>Prenez des photos des dégâts et de la scène</li><li>Transmettez le constat à votre assureur dans les 5 jours ouvrés</li><li>Contactez-moi en tant que courtier pour vous accompagner dans les démarches</li></ol>"
+        }
+      ]
+    },
+    {
+      "title": "Assurance Habitation",
+      "items": [
+        {
+          "question": "Quelle est la différence entre l'assurance propriétaire et l'assurance locataire ?",
+          "answer": "<p><strong>Assurance propriétaire occupant :</strong> Elle couvre à la fois le bâtiment (murs, toiture, fondations) et son contenu. Elle protège contre les dommages structurels et inclut généralement une responsabilité civile.</p><p><strong>Assurance propriétaire non-occupant :</strong> Elle couvre principalement le bâtiment et la responsabilité civile du propriétaire, mais pas le contenu qui appartient au locataire.</p><p><strong>Assurance locataire :</strong> Elle couvre principalement vos biens personnels et votre responsabilité locative (dommages que vous pourriez causer au logement). Le bâtiment lui-même reste assuré par le propriétaire.</p>"
+        },
+        {
+          "question": "Quels sont les sinistres couverts par une assurance habitation standard ?",
+          "answer": "<p>Une assurance habitation standard couvre généralement :</p><ul><li>Incendie et explosion</li><li>Dégâts des eaux</li><li>Vol et vandalisme</li><li>Bris de glace</li><li>Catastrophes naturelles</li><li>Responsabilité civile (dommages causés à autrui)</li></ul><p>Des garanties optionnelles peuvent être ajoutées comme la protection juridique, les dommages électriques, ou la couverture des objets de valeur.</p>"
+        },
+        {
+          "question": "Comment déclarer un sinistre habitation ?",
+          "answer": "<p>Pour déclarer un sinistre habitation :</p><ol><li>Contactez votre assureur dans les 5 jours ouvrés (2 jours pour un vol, 10 jours pour une catastrophe naturelle)</li><li>Rassemblez les preuves : photos des dégâts, factures des biens endommagés</li><li>Remplissez la déclaration de sinistre fournie par l'assureur</li><li>Conservez les biens endommagés jusqu'au passage de l'expert</li><li>Obtenez des devis de réparation si nécessaire</li></ol><p>En tant que votre courtier, je peux vous accompagner tout au long de cette procédure pour faciliter vos démarches.</p>"
+        }
+      ]
+    }
+  ]
+} 
